@@ -84,17 +84,17 @@ const TEAMS = [
 ];
 
 const LISTENERS = [
-  { name: "🐻いし🍑ばっしー🐈", coins: 82200, team: "omurice" },
+  { name: "🐻いし🍑ばっしー🐈", coins: 84300, team: "omurice" },
   { name: "🌸えみか💄❤️🐕", coins: 0, team: "omurice" },
   { name: "はんぺんB_1116", coins: 9000, team: "omurice" },
 
-  { name: "のるだん_noru🍺", coins: 6900, team: "chococake" },
-  { name: "たろじろさん.", coins: 3000, team: "chococake" },
+  { name: "のるだん_noru🍺", coins: 7200, team: "chococake" },
+  { name: "たろじろさん.", coins: 3300, team: "chococake" },
   { name: "カシオ_DX", coins: 0, team: "chococake" },
 
   { name: "ひろぼぉ00", coins: 10, team: "gyoza" },
-  { name: "ツ🍑たきちゃん🍑ツ", coins: 9600, team: "gyoza" },
-  { name: "babababancho🍑", coins: 2740, team: "gyoza" },
+  { name: "ツ🍑たきちゃん🍑ツ", coins: 13200, team: "gyoza" },
+  { name: "babababancho🍑", coins: 2790, team: "gyoza" },
 ];
 
 const DISH_NAME = {
