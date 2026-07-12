@@ -94,7 +94,7 @@ const LISTENERS = [
 
   { name: "ひろぼぉ00", coins: 10, team: "gyoza" },
   { name: "ツ🍑たきちゃん🍑ツ", coins: 13200, team: "gyoza" },
-  { name: "babababancho🍑", coins: 2790, team: "gyoza" },
+  { name: "babababancho🍑", coins: 2490, team: "gyoza" },
 ];
 
 const DISH_NAME = {
