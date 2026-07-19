@@ -98,6 +98,7 @@ const LISTENERS = [
   { name: "bababancho🍑", coins: 15820, team: "gyoza" },
   { name: "あっきー🤗🍊🐾", coins: 1500, team: "gyoza" },
   { name: "なおやん🚑🌻minami", coins: 300, team: "gyoza" },
+{ name: "peach_ぱっちー", coins: 3900, team: null },
 ];
 
 
