@@ -85,17 +85,17 @@ const TEAMS = [
 ];
 
 const LISTENERS = [
-  { name: "🐻いし🍑ばっしー🐈", coins: 655854, team: "omurice" },
+  { name: "🐻いし🍑ばっしー🐈", coins: 696469, team: "omurice" },
   { name: "🌸えみか💄❤️🐕", coins: 300, team: "omurice" },
-  { name: "はんぺんB_1116", coins: 16960, team: "omurice" },
+  { name: "はんぺんB_1116", coins: 17000, team: "omurice" },
 
   { name: "のるだん_noru🍺", coins: 7410, team: "chococake" },
-  { name: "たろじろさん.", coins: 25820, team: "chococake" },
+  { name: "たろじろさん.", coins: 27020, team: "chococake" },
   { name: "カシオ_DX", coins: 14350, team: "chococake" },
 
   { name: "ひろぼぉ00", coins: 80, team: "gyoza" },
-  { name: "ツ🍑たきちゃん🍑ツ", coins: 51470, team: "gyoza" },
-  { name: "bababancho🍑", coins: 32891, team: "gyoza" },
+  { name: "ツ🍑たきちゃん🍑ツ", coins: 52210, team: "gyoza" },
+  { name: "bababancho🍑", coins: 33041, team: "gyoza" },
   { name: "あっきー🤗🍊🐾", coins: 1800, team: "gyoza" },
   { name: "なおやん🚑🌻minami", coins: 300, team: "gyoza" },
 { name: "peach_ぱっちー", coins: 3900, team: null },
